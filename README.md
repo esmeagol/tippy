@@ -21,7 +21,7 @@ The following required functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/b52163af-209d-e94d-87d9-835cc7eb2e95' 'title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='blob:http://imgur.com/b52163af-209d-e94d-87d9-835cc7eb2e95' 'title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
